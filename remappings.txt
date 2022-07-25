@@ -1,2 +1,2 @@
 solmate-utils/=lib/solmate/src/utils/
-openzeppelin-contracts-token/ERC721/=lib/openzeppelin/contracts/token/ERC721
+openzeppelin-ERC721/=lib/openzeppelin/contracts/token/ERC721
