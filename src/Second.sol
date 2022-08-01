@@ -10,7 +10,7 @@ error MaxSupply();
 error NonExistentTokenURI();
 error WithdrawTransfer();
 
-contract NFT is ERC721, Ownable {
+contract Second is ERC721, Ownable {
 
     using Strings for uint256;
     string public baseURI;
